@@ -2,7 +2,7 @@ package com.antoniomarcos.cursomc;
 
 import java.util.Arrays;
 
-import org.apache.tomcat.util.codec.EncoderException;
+//import org.apache.tomcat.util.codec.EncoderException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
